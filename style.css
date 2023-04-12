@@ -209,7 +209,7 @@ img {
     height: 3.625rem;
   }
   .cta__image {
-    /* background-image: url(../../assets/desktop/image-keyboard.jpg); */
+
     background-image: url(./assets/tablet/image-phone-and-keyboard.jpg); 
     width: 33.75rem;
     height: 30rem;
@@ -220,7 +220,7 @@ img {
   .cta__image::after {
     content: " ";
     position: absolute;
-    /* background-image: url(../../assets/shared/pattern-square.svg); */
+  
     background-image: url(./assets/shared/pattern-square.svg);
     width: 15.9375rem;
     height: 14.75rem;
@@ -290,7 +290,6 @@ img {
     margin-bottom: 4.5rem;
   }
   .intro__image-left {
-    /* background-image: url(../../assets/tablet/image-phone-and-keyboard.jpg); */
     background-image: url(./assets/tablet/image-phone-and-keyboard.jpg); 
     background-color: #f26818;
     background-blend-mode: multiply;
@@ -335,7 +334,6 @@ img {
     margin-bottom: 10.5rem;
   }
   .intro__image-left {
-    /* background-image: url(../../assets/desktop/image-phone-and-keyboard.jpg); */
     background-image: url(./assets/desktop/image-phone-and-keyboard.jpg);
     background-color: #f26818;
     background-blend-mode: multiply;
@@ -349,7 +347,6 @@ img {
   .intro__image-left:before {
     content: " ";
     position: absolute;
-    /* background-image: url(../../assets/shared/pattern-square.svg); */
     background-image: url(./assets/shared/pattern-square.svg);
     width: 15.9375rem;
     height: 14.75rem;
@@ -362,7 +359,6 @@ img {
     z-index: -1;
   }
   .intro__image-right {
-    /* background-image: url(../../assets/desktop/image-glass-and-keyboard.jpg); */
     background-image: url(./assets/desktop/image-glass-and-keyboard.jpg);
 
     width: 27.8125rem;
